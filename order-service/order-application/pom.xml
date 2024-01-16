@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>order-application</artifactId>
+    <packaging>pom</packaging>
 
     <properties>
 
