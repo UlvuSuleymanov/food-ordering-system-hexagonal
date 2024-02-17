@@ -11,7 +11,6 @@
 
     <artifactId>order-messaging</artifactId>
     <packaging>pom</packaging>
-
     <properties>
 
     </properties>
